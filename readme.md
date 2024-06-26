@@ -1,0 +1,1 @@
+precisei pegar a imagem como svg já que não tinha como exportar a imagem 
